@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahkatebyte
 - 👀 I’m interested in ... Ruby on Rails and Golang, React/Typescript 
-- 🌱 I’m currently learning ... how to make ugly apps pretty 
+- 🌱 I’m currently learning ... how to make functional apps pretty 
 - 📫 How to reach me ... @danzigwithwolves93@gmail.com
 
 <!---
