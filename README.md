@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahkatebyte
 - 👀 I’m interested in ... Ruby on Rails and Golang, React/Typescript 
-- 🌱 I’m currently learning ... how to make functional apps pretty 
+- 🌱 I’m currently learning ... how to remove friction from engineering workflow 
 - 📫 How to reach me ... @danzigwithwolves93@gmail.com
 
 <!---
