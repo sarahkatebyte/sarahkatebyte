@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahkatebyte
-- 👀 I’m interested in ... Ruby on Rails and Golang
+- 👀 I’m interested in ... Golang
 - 🌱 I’m currently learning ... how to remove friction from engineering workflows
 - 📫 How to reach me ... @danzigwithwolves93@gmail.com
 
