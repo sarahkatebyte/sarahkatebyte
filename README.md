@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahkatebyte
 - 👀 I’m interested in ... Golang
-- 🌱 I’m currently learning ... how to remove friction from engineering workflows
+- 🌱 I’m currently learning ... how to make my dog immortal
 - 📫 How to reach me ... @danzigwithwolves93@gmail.com
 
 <!---
